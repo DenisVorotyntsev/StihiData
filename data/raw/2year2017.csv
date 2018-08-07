@@ -1,0 +1,200 @@
+author,text
+"
+div.b-yandexbox * { font-size: 14px !important; margin: 0 !important; } div.b-yandexbox a img { border: 0 !important; } div.b-yandexbox input, div.b-yandexbox label { vertical-align: middle; } div.b-yandexbox table { font-size: 14px; width: 100%; border-collapse: collapse; border: 0; background: #ffcc00; } div.b-yandexbox table td { padding: 7px 0 6px 0; white-space: nowrap; vertical-align: middle; } div.b-yandexbox .b-yandexbox-image { padding: 6px 6px 0 6px; } div.b-yandexbox .b-yandexbox-search { width: 100%; padding: 0 6px; } div.b-yandexbox .b-yandexbox-search table { margin: 0; padding: 0; background: none; } div.b-yandexbox .b-yandexbox-search .b-yandexbox-txt { width: 100%; padding-right: 6px; } div.b-yandexbox .b-yandexbox-text { position: relative; width: 100%; } div.b-yandexbox .b-yandexbox-text input { float: left; width: 100%; padding-right: 0; border: 1px solid #7f9db9; } div.b-yandexbox .b-yandexbox-search .b-yandexbox-submit { padding: 0; } div.b-yandexbox .b-hint-input { position: relative; z-index: 100; left: 0; display: none; width: 30px; height: 11px; margin: 0.16em 0.2em !important; cursor: text; line-height: 0; background: url(http://site.yandex.ru/i/ysearch_small.png) no-repeat; } .b-yandexbox_arr { padding-right: 23px; background-image: url(http://site.yandex.ru/arrow.xml?color=%23ffcc00); background-repeat: no-repeat; background-position: 100% 50%; } div.b-yandexbox .button-search { width: 19px; height: 15px; outline: none; cursor: pointer; border: none; background: url(http://site.yandex.ru/i/search.png) no-repeat; }/*<![CDATA[*/(function(Lego){ if (!Lego) Lego = window.Lego = {}; Lego.clean = function(a) { var p = a.previousSibling; if (p) { a.onblur = function() { if (!a.value) { p.style.top = """"; } }; p.style.top = ""-9999px""; } }; Lego.cleanIfNotEmpty = function(id) { var e = document.getElementById(id); e.previousSibling.style.display = ""block""; var f = function() { if (e.value) { Lego.clean(e); } }; setInterval(f, 100); }; })(window.Lego);/*]]>*/
+Lego.cleanIfNotEmpty(""yandexbox-text"")
+","Lego.cleanIfNotEmpty(""yandexbox-text"")"
+Жень Шень Джейн Эйр,"
+1.
+Standing with all your friends
+So I wait till you're alone again 
+And the minutes feel like eternity
+
+All these words buried inside my heart
+Every step feels like the hardest part
+But the last 6 feet are gonna kill me
+
+So just take this chance
+I've got it all planned
+
+I'll pick you up at 8 
+And we can drive around
+Take you to the beach 
+And we can head downtown 
+While you hold my hand
+
+We'll park it, lay down on the hood of my car
+Listen to the airplanes as we count the stars, 
+Tonight I'll be your man
+
+And tomorrow we can do it again 
+(And tomorrow we can do it again)
+
+2.
+If I could give you the world tonight
+Then I would, I'd still give you all my time
+And I'd be rich cause love is everything
+
+So just take this chance
+I've got it all planned
+
+I'll pick you up at 8 
+And we can drive around
+Take you to the beach 
+And we can head downtown 
+While you hold my hand
+
+We'll park it, lay down on the hood of my car
+Listen to the airplanes as we count the stars, 
+Tonight I'll be your man
+
+And tomorrow we can do it again
+
+Let's take this moment, it's ours so own it
+So come with me, don't let it go to waste
+No you don't wanna 
+m-miss out on us
+I'm telling you regrets don't fade away
+
+I'll pick you up at 8 
+And we can drive around
+Take you to the beach 
+And we can head downtown 
+While you hold my hand
+
+We'll park it, lay down on the hood of my car
+Listen to the airplanes as we count the stars, 
+Tonight I'll be your man
+
+And tomorrow we can do it again
+
+I'll pick you up at 8 
+And we can drive around
+Take you to the beach 
+And we can head downtown
+
+We'll park it, lay down on the hood of my car
+Listen to the airplanes as we count the stars, 
+Tonight I'll be your man
+And give you all I can 
+And tomorrow we can do it again
+
+МОЙ ХУДОЖЕСТВЕННЫЙ ПЕРЕВОД
+
+1.
+Вижу тебя с подругами шепчешься 
+Жду пока ты заметишь меня, и минуты, 
+словно вечность тянуться
+
+Все слова застряли в моей голове,
+Каждый шаг первого тяжелей, и уверен, что 
+скоро погибну я 
+
+Так используй шанс,
+Представь этот час
+
+Заеду в восемь, мы с тобой прокатимся,
+Сквозь город весь на пляже мы останемся,
+Твоя рука в моей 
+
+Выйдем из машины, ляжем на капот
+Услышим самолет, не сосчитав всех звезд
+Позволь мне быть твоим
+
+Завтра в тоже время все повторим 
+
+2.
+Если б мог отдал бы тебе весь мир,
+Уделив все время для нас двоих. 
+Был бы я богат нашей любовью 
+
+Так используй шанс
+Представь этот час
+
+Заеду в восемь, мы с тобой прокатимся
+Сквозь город весь на пляже мы останемся
+Твоя рука в моей
+
+Выйдем из машины, ляжем на капот
+Услышим самолет, не сосчитав всех звезд
+Позволь мне быть твоим
+
+Завтра в то же время все повторим
+
+Лови момент это наше время
+
+Следуй за мной, не ускользнет момент 
+
+Нет, не упустим эту возможность
+
+Твержу тебе не будем мы жалеть 
+
+Заеду в восемь, мы с тобой прокатимся
+Сквозь город весь, на пляже мы останемся
+Твоя рука в моей
+
+Выйдем из машины, ляжем на капот
+Услышим самолет, не сосчитав всех звезд
+Позволь мне быть твоим
+
+Завтра в то же время все поторим
+
+Заеду в восемь, мы с тобой прокатимся
+Сквозь город весь, на пляже мы останемся
+
+Выйдем из машины, ляжем на капот
+Услышим самолет, не сосчитав всех звезд
+Позволь мне быть твоим
+
+У ног твоих весь мир
+
+Завтра в тоже время все повторим
+
+P. S. Текст хорошо ложиться на музыку!
+"
+Максим Троянович,"
+Вы в Одессе не жили?
+Вам тогда удивляюсь.
+Здесь поэтов любили,
+А за глупость – карались.
+Первый город – Одесса
+И второй, между прочим.
+Вместо поля и леса -
+Черноморские ночи.
+Есть своя Молдаванка,
+Всем она шлёт приветы.
+Королям и цыганкам
+Жить не плохо здесь летом.
+Если вы с Сахалина,
+Поклонитесь Спинозе.
+Самых лучших маслинов,
+Только здесь «на привозе».
+Здесь под осень туманы,
+В море чайки – голубки.
+Коль любить – без обмана,
+Коль ходить – только в шлюпке.
+Ветер носит по морю,
+Корабли, будто щепки.
+Скучным людям тут горе,
+Они, кстати, здесь редки.
+Раздирают всем душу
+Дев глаза голубые.
+Омывают всю сушу
+С пеной волны морские.
+Порт – в гранитные плиты.
+Корабли у причала.
+Здесь каштаны и липы,
+Украины начало! 
+
+         Фото автора.
+"
+Авторы   Произведения   Рецензии   Поиск   Вход для авторов   Регистрация   О портале       Стихи.ру   Проза.ру,"
+
+
+
+ 
+
+
+Портал Стихи.ру предоставляет авторам возможность свободной публикации своих литературных произведений в сети Интернет на основании пользовательского договора. Все авторские права на произведения принадлежат авторам и охраняются законом. Перепечатка произведений возможна только с согласия его автора, к которому вы можете обратиться на его авторской странице. Ответственность за тексты произведений авторы несут самостоятельно на основании правил публикации и российского законодательства. Вы также можете посмотреть более подробную информацию о портале и связаться с администрацией.
+Ежедневная аудитория портала Стихи.ру – порядка 200 тысяч посетителей, которые в общей сумме просматривают более двух миллионов страниц по данным счетчика посещаемости, который расположен справа от этого текста. В каждой графе указано по две цифры: количество просмотров и количество посетителей.
+© Все права принадлежат авторам, 2000-2018     Разработка и поддержка: Литературный клуб   Под эгидой Российского союза писателей   18+
+"

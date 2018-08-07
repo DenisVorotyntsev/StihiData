@@ -1,0 +1,67 @@
+author,text
+"
+div.b-yandexbox * { font-size: 14px !important; margin: 0 !important; } div.b-yandexbox a img { border: 0 !important; } div.b-yandexbox input, div.b-yandexbox label { vertical-align: middle; } div.b-yandexbox table { font-size: 14px; width: 100%; border-collapse: collapse; border: 0; background: #ffcc00; } div.b-yandexbox table td { padding: 7px 0 6px 0; white-space: nowrap; vertical-align: middle; } div.b-yandexbox .b-yandexbox-image { padding: 6px 6px 0 6px; } div.b-yandexbox .b-yandexbox-search { width: 100%; padding: 0 6px; } div.b-yandexbox .b-yandexbox-search table { margin: 0; padding: 0; background: none; } div.b-yandexbox .b-yandexbox-search .b-yandexbox-txt { width: 100%; padding-right: 6px; } div.b-yandexbox .b-yandexbox-text { position: relative; width: 100%; } div.b-yandexbox .b-yandexbox-text input { float: left; width: 100%; padding-right: 0; border: 1px solid #7f9db9; } div.b-yandexbox .b-yandexbox-search .b-yandexbox-submit { padding: 0; } div.b-yandexbox .b-hint-input { position: relative; z-index: 100; left: 0; display: none; width: 30px; height: 11px; margin: 0.16em 0.2em !important; cursor: text; line-height: 0; background: url(http://site.yandex.ru/i/ysearch_small.png) no-repeat; } .b-yandexbox_arr { padding-right: 23px; background-image: url(http://site.yandex.ru/arrow.xml?color=%23ffcc00); background-repeat: no-repeat; background-position: 100% 50%; } div.b-yandexbox .button-search { width: 19px; height: 15px; outline: none; cursor: pointer; border: none; background: url(http://site.yandex.ru/i/search.png) no-repeat; }/*<![CDATA[*/(function(Lego){ if (!Lego) Lego = window.Lego = {}; Lego.clean = function(a) { var p = a.previousSibling; if (p) { a.onblur = function() { if (!a.value) { p.style.top = """"; } }; p.style.top = ""-9999px""; } }; Lego.cleanIfNotEmpty = function(id) { var e = document.getElementById(id); e.previousSibling.style.display = ""block""; var f = function() { if (e.value) { Lego.clean(e); } }; setInterval(f, 100); }; })(window.Lego);/*]]>*/
+Lego.cleanIfNotEmpty(""yandexbox-text"")
+","Lego.cleanIfNotEmpty(""yandexbox-text"")"
+Дэниель Робуа,"
+плащаница бездонных мечтаний, оборванных моим шагом
+моих ослепших от безумств глаз, сорванных ночью, подобно
+платью, некогда страстно сорванному с юного тела, бурей 
+взорвавшего мои окостенелые чувства, чей скелет после 
+потопа способен предсказывать сцены истинной украденной
+из пистолета пули, говорящей мне о мечтательности висков
+скажи мне, беспросветная тьма, где приют находит вечность,
+расскажи мне, молвы язык кровавый, чем дышат эти двери, 
+злом ли? пробитые двери пулей дышат неузнаваемой сказкой
+рассказанной никогда, в момент рождения чего-то бессвязного,
+моей души, что сносит со столов украденные карты душ, здесь 
+нет судьбы, возрожденной и восторженной вследствие слуха,
+в котором бриллиантовые звезды падают замертво за ворот
+недосвязанный, краской нежности украшенный, танцуй, судьба,
+
+своими ласками удерживая в недописанном романе запятые,
+неосязаемые, будто окна, которые некогда разбивали вороны, 
+теперь же их глодают смертельные яды, что разъедают на пути
+своем обращенном в вечность безветрия, бриза над океаном 
+ада, сотканного из бетонных взоров, каменных метаний между
+решетами веревок, обращаемых в петли, в которых шеи 
+тонут, словно серебрянные ложки в медных кружках, 
+золото измазывает кровью пальцы, двойным скитанием
+врываясь в безупречность пустоты, плывущей над морем,
+отдайся собственному року, злостная судьба, отдайся аду
+
+столь благовонному, чьи мерцания багровые тебе так знакомы
+не так ли? не голоден ли голодранец, чьи лохмотья устремляют
+свои пути к ветрам? тяжела вера, что расплескивает переливы
+перебирая в собственных морщинистых руках мысли звонов
+ободранных посреди блёсок выблеванных ртами небес,
+рукава задраны настолько далеко, что черт лишь видит
+их борьбу с собственными силами, священная слабость
+рук надежды вырывает из ворон последние перья,
+сжигая крылья на костре, проворно покоряя их себе,
+тот путь, по которому изувеченный лёд бредет, лету
+минуя, вырываясь из рук обманутой фокусом фортуны, 
+бредя туда, откуда злость не дышит, откуда голод 
+звон колоколов не слышит, звон коры древесной
+не оставляя за собой сожжения, издержанного 
+тем, что способно оставлять лишь след на устах
+усталого ветра. прощайте, остатки рубиновых
+мерцаний на губах, прощайте, неизвестностью
+своей бушующей маня сцены пожирания душ. 
+"
+Жидких Елена Сергеевна,"
+Город в тумане каштанов,
+Майские тёплые ночи,
+Капельки-брызги фонтанов,
+Томно прикрытые очи.
+
+Город в тумане обманов.
+Что же с ним всё таки будет?
+Алые брызги фонтанов -
+Люди, обычные люди!
+
+Город в тумане из дыма.
+Дни? что страшнее? иль ночи?
+В крови людской Украина!
+Страхом наполнены очи.
+"

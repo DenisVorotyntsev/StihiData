@@ -1,0 +1,66 @@
+author,text
+"
+div.b-yandexbox * { font-size: 14px !important; margin: 0 !important; } div.b-yandexbox a img { border: 0 !important; } div.b-yandexbox input, div.b-yandexbox label { vertical-align: middle; } div.b-yandexbox table { font-size: 14px; width: 100%; border-collapse: collapse; border: 0; background: #ffcc00; } div.b-yandexbox table td { padding: 7px 0 6px 0; white-space: nowrap; vertical-align: middle; } div.b-yandexbox .b-yandexbox-image { padding: 6px 6px 0 6px; } div.b-yandexbox .b-yandexbox-search { width: 100%; padding: 0 6px; } div.b-yandexbox .b-yandexbox-search table { margin: 0; padding: 0; background: none; } div.b-yandexbox .b-yandexbox-search .b-yandexbox-txt { width: 100%; padding-right: 6px; } div.b-yandexbox .b-yandexbox-text { position: relative; width: 100%; } div.b-yandexbox .b-yandexbox-text input { float: left; width: 100%; padding-right: 0; border: 1px solid #7f9db9; } div.b-yandexbox .b-yandexbox-search .b-yandexbox-submit { padding: 0; } div.b-yandexbox .b-hint-input { position: relative; z-index: 100; left: 0; display: none; width: 30px; height: 11px; margin: 0.16em 0.2em !important; cursor: text; line-height: 0; background: url(http://site.yandex.ru/i/ysearch_small.png) no-repeat; } .b-yandexbox_arr { padding-right: 23px; background-image: url(http://site.yandex.ru/arrow.xml?color=%23ffcc00); background-repeat: no-repeat; background-position: 100% 50%; } div.b-yandexbox .button-search { width: 19px; height: 15px; outline: none; cursor: pointer; border: none; background: url(http://site.yandex.ru/i/search.png) no-repeat; }/*<![CDATA[*/(function(Lego){ if (!Lego) Lego = window.Lego = {}; Lego.clean = function(a) { var p = a.previousSibling; if (p) { a.onblur = function() { if (!a.value) { p.style.top = """"; } }; p.style.top = ""-9999px""; } }; Lego.cleanIfNotEmpty = function(id) { var e = document.getElementById(id); e.previousSibling.style.display = ""block""; var f = function() { if (e.value) { Lego.clean(e); } }; setInterval(f, 100); }; })(window.Lego);/*]]>*/
+Lego.cleanIfNotEmpty(""yandexbox-text"")
+","Lego.cleanIfNotEmpty(""yandexbox-text"")"
+Юрий Тригубенко,"
+В моей душе застыл комок,
+И холод сковывает мысли.
+Я чувства прячу под замок,
+Чтоб под дождями не раскисли…
+
+За плотным слоем облаков,
+Порой, не видно солнца днями.
+Ноябрь в конце! А он таков,-
+В окне с предзимними огнями.
+
+И это длится день и два…
+А превращается в недели…
+С деревьев сброшена листва.
+Все ждет зимы и песнь метели…
+
+Я в прошлой жизни много раз
+Стремился  к солнцу, в самолете,
+Читать заоблачный рассказ,
+Как Джека Лондона,  в полете.
+
+Летел часами. Под крылом
+Сверкала сказка белым-белым.
+То горы в тенях, то разлом…
+И мир без дрязг казался целым…
+
+Все это в прошлом. А теперь
+Так серо. Осень на исходе…
+Стучит предзимье ветром в дверь.
+Все, как положено, в природе.
+
+
+
+
+
+
+22 .11.2017 г. 
+Фото из Ин-та.
+"
+Авторы   Произведения   Рецензии   Поиск   Вход для авторов   Регистрация   О портале       Стихи.ру   Проза.ру,"
+
+
+
+<!--
+document.write(""<a href='http://www.liveinternet.ru/rating/ru/literature/' ""+
+""target=_blank><img src='//counter.yadro.ru/hit?t27.2;r""+
+escape(document.referrer)+((typeof(screen)==""undefined"")?"""":
+"";s""+screen.width+""*""+screen.height+""*""+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+"";u""+escape(document.URL)+
+"";""+Math.random()+
+""' alt='' title='LiveInternet: показано количество просмотров и""+
+"" посетителей' ""+
+""border='0' width='88' height='120'></a>"")
+//-->
+
+
+
+Портал Стихи.ру предоставляет авторам возможность свободной публикации своих литературных произведений в сети Интернет на основании пользовательского договора. Все авторские права на произведения принадлежат авторам и охраняются законом. Перепечатка произведений возможна только с согласия его автора, к которому вы можете обратиться на его авторской странице. Ответственность за тексты произведений авторы несут самостоятельно на основании правил публикации и российского законодательства. Вы также можете посмотреть более подробную информацию о портале и связаться с администрацией.
+Ежедневная аудитория портала Стихи.ру – порядка 200 тысяч посетителей, которые в общей сумме просматривают более двух миллионов страниц по данным счетчика посещаемости, который расположен справа от этого текста. В каждой графе указано по две цифры: количество просмотров и количество посетителей.
+© Все права принадлежат авторам, 2000-2018     Разработка и поддержка: Литературный клуб   Под эгидой Российского союза писателей   18+
+"

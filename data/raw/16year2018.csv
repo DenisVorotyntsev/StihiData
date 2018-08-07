@@ -1,0 +1,85 @@
+author,text
+"
+div.b-yandexbox * { font-size: 14px !important; margin: 0 !important; } div.b-yandexbox a img { border: 0 !important; } div.b-yandexbox input, div.b-yandexbox label { vertical-align: middle; } div.b-yandexbox table { font-size: 14px; width: 100%; border-collapse: collapse; border: 0; background: #ffcc00; } div.b-yandexbox table td { padding: 7px 0 6px 0; white-space: nowrap; vertical-align: middle; } div.b-yandexbox .b-yandexbox-image { padding: 6px 6px 0 6px; } div.b-yandexbox .b-yandexbox-search { width: 100%; padding: 0 6px; } div.b-yandexbox .b-yandexbox-search table { margin: 0; padding: 0; background: none; } div.b-yandexbox .b-yandexbox-search .b-yandexbox-txt { width: 100%; padding-right: 6px; } div.b-yandexbox .b-yandexbox-text { position: relative; width: 100%; } div.b-yandexbox .b-yandexbox-text input { float: left; width: 100%; padding-right: 0; border: 1px solid #7f9db9; } div.b-yandexbox .b-yandexbox-search .b-yandexbox-submit { padding: 0; } div.b-yandexbox .b-hint-input { position: relative; z-index: 100; left: 0; display: none; width: 30px; height: 11px; margin: 0.16em 0.2em !important; cursor: text; line-height: 0; background: url(http://site.yandex.ru/i/ysearch_small.png) no-repeat; } .b-yandexbox_arr { padding-right: 23px; background-image: url(http://site.yandex.ru/arrow.xml?color=%23ffcc00); background-repeat: no-repeat; background-position: 100% 50%; } div.b-yandexbox .button-search { width: 19px; height: 15px; outline: none; cursor: pointer; border: none; background: url(http://site.yandex.ru/i/search.png) no-repeat; }/*<![CDATA[*/(function(Lego){ if (!Lego) Lego = window.Lego = {}; Lego.clean = function(a) { var p = a.previousSibling; if (p) { a.onblur = function() { if (!a.value) { p.style.top = """"; } }; p.style.top = ""-9999px""; } }; Lego.cleanIfNotEmpty = function(id) { var e = document.getElementById(id); e.previousSibling.style.display = ""block""; var f = function() { if (e.value) { Lego.clean(e); } }; setInterval(f, 100); }; })(window.Lego);/*]]>*/
+Lego.cleanIfNotEmpty(""yandexbox-text"")
+","Lego.cleanIfNotEmpty(""yandexbox-text"")"
+Олег Дакаленко,"
+Моим коллегам-ученым, которые торопятся успеть...
+И тем, что уже никогда не успеют...
+
+Талант плебеи не оценят,
+не хватит даже им ума:
+спешит дела доделать гений,
+торопит жизнь его сама.
+Его торопят начинанья,
+его торопит Звездный Путь,
+его торопит предсказанье,
+призванье. Даже отдохнуть
+ему нельзя, - запрет на это;
+запрет на сон, запрет на страх...
+Во мрак окутана планета
+Земля. И коль он не дурак,
+то должен плюнуть на законы
+и мирозданьем пренебречь.
+Везде насмешки и препоны,
+везде обманчивая речь:
+и душ засоренные касты,
+и душ колодцы без воды,
+и ледяных сомнений насты
+опасны. Только лишь труды
+науки многому научат, -
+они спасают дух бойца.
+Ученый, дух свой бьет и мучит,
+не вытирая пот с лица.
+Ученый пишет книги в мозге, -
+не все открыть, не все прочесть:
+он для себя готовит розги,
+он для себя готовит месть
+и мстит себе, коль он не сделал
+то, что наметил, что предрек.
+Себя забыв, он снова смело
+пройдет научный свой урок.
+Полно в науке заблуждений,
+полно завистливых преград...
+Свобода строк стихотворений
+переживет нападок яд;
+переживет и тех ""ученых"",
+что тормозили душ прогресс,
+воскреснет из ночей бессонных,
+раздавит зла извечный пресс...
+Наступит день - умом священный,
+и мой признают скорбный труд.
+И день тот будет драгоценным,
+но только я, увы, умру!
+Завет я выполнил великий,
+ведь не давал за жизнь зарок.
+Я - одинокий волк и дикий,
+хотя с меня и вышел прок.
+Порог, порок, поток и пытка -
+скрижали пламенной судьбы.
+Куда же вьется счастья нитка
+от воскрешенья до мольбы?!
+И понял я совсем недавно,
+что для таланта жизнь летит
+молниеносно и бесславно,
+иль в полной славе. И зенит
+той славы, истинной, посмертно
+воздвигнет нимб над головой.
+Талант всегда - борец и жертва
+на сей площадке игровой.
+Талант плебеи не оценят,
+не хватит даже им ума:
+спешит дела доделать гений,
+торопит жизнь его сама!
+
+07.03.2018
+
+Кандидат филологических наук,
+Доцент кафедры иностранных языков
+Дакаленко Олег Вячеславович
+
+P.S.
+
+...по поводу волка: моя фамилия 
+переводится с древнефризского языка - ""молодой волк""
+"

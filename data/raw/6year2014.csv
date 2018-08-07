@@ -1,0 +1,84 @@
+author,text
+Елена Шумилова 2,"
+С Днём Рожденья поздравляю.
+От души тебе желаю,
+Много счастья и любви!
+Мирных дней для всей семьи!
+
+И здоровья и успеха,
+Тёплых дней большова лета.
+Много радости,гостей,
+И приветственных речей.
+
+Чтобы радость прибавлялась,
+Чтобы чаще улыбалась,
+Чтобы вовсе не грустить,
+Кофе, чай с гостями пить.
+"
+"
+div.b-yandexbox * { font-size: 14px !important; margin: 0 !important; } div.b-yandexbox a img { border: 0 !important; } div.b-yandexbox input, div.b-yandexbox label { vertical-align: middle; } div.b-yandexbox table { font-size: 14px; width: 100%; border-collapse: collapse; border: 0; background: #ffcc00; } div.b-yandexbox table td { padding: 7px 0 6px 0; white-space: nowrap; vertical-align: middle; } div.b-yandexbox .b-yandexbox-image { padding: 6px 6px 0 6px; } div.b-yandexbox .b-yandexbox-search { width: 100%; padding: 0 6px; } div.b-yandexbox .b-yandexbox-search table { margin: 0; padding: 0; background: none; } div.b-yandexbox .b-yandexbox-search .b-yandexbox-txt { width: 100%; padding-right: 6px; } div.b-yandexbox .b-yandexbox-text { position: relative; width: 100%; } div.b-yandexbox .b-yandexbox-text input { float: left; width: 100%; padding-right: 0; border: 1px solid #7f9db9; } div.b-yandexbox .b-yandexbox-search .b-yandexbox-submit { padding: 0; } div.b-yandexbox .b-hint-input { position: relative; z-index: 100; left: 0; display: none; width: 30px; height: 11px; margin: 0.16em 0.2em !important; cursor: text; line-height: 0; background: url(http://site.yandex.ru/i/ysearch_small.png) no-repeat; } .b-yandexbox_arr { padding-right: 23px; background-image: url(http://site.yandex.ru/arrow.xml?color=%23ffcc00); background-repeat: no-repeat; background-position: 100% 50%; } div.b-yandexbox .button-search { width: 19px; height: 15px; outline: none; cursor: pointer; border: none; background: url(http://site.yandex.ru/i/search.png) no-repeat; }/*<![CDATA[*/(function(Lego){ if (!Lego) Lego = window.Lego = {}; Lego.clean = function(a) { var p = a.previousSibling; if (p) { a.onblur = function() { if (!a.value) { p.style.top = """"; } }; p.style.top = ""-9999px""; } }; Lego.cleanIfNotEmpty = function(id) { var e = document.getElementById(id); e.previousSibling.style.display = ""block""; var f = function() { if (e.value) { Lego.clean(e); } }; setInterval(f, 100); }; })(window.Lego);/*]]>*/
+Lego.cleanIfNotEmpty(""yandexbox-text"")
+","Lego.cleanIfNotEmpty(""yandexbox-text"")"
+Катрина Четвергова 2,"
+Я села в вагон метро
+Куда он меня повез
+Смотрю я сейчас в окно
+Там проводов обоз
+
+И станции мимо глаз
+Проносятся каждый раз
+И снова стальные двери
+Закрылись и заскрипели
+
+Вот женщина с грустным видом
+Все просит и просит мольбами
+Который стал инвалидом
+Ребенку помочь деньгами
+
+Вот здесь вот зашло не много
+Толпясь посреди вагона пустого
+И голос в динамике громко
+Нас ждет еще остановка
+
+У женщины что-то случилось
+Терпение в крошки разбилось
+Могла закидать нас камнями,
+Но обиженно водит глазами
+
+Могли бы мы ехать по кругу
+Могли бы мы видеть друг друга
+Но нет для этого станций
+Не ввели пока инноваций
+
+И едешь ты вдоль по линии
+И станции все здесь синие
+И может быть в новом тоннеле
+Найдешь то что сердце греет
+
+А может толпами люди
+Задушат начало прелюдий
+И зарождение счастья
+Принесет сильнее ненастья
+
+И вот слышишь голос знакомый
+Укажет ли путь нам искомый
+Может мечты сбываются
+Но
+        "" Осторожно,двери закрываются""
+"
+Евгения Дайнеко,"
+И если я когда-нибудь умру, 
+Мой милый, не печалься зря. 
+К тебе приду я солнцем по утру 
+Когда нежна и трепетна заря. 
+
+И будут птицы мило щебетать, 
+Любви моей пернатые певцы! 
+Приду, пока еще ты будешь спать, 
+Как призраками ходят мертвецы. 
+
+И сразу ты почувствуешь тогда, 
+Мое прошепчешь имя в полусне. 
+Я здесь, и буду здесь всегда, 
+Пока еще ты помнишь обо мне.
+"
